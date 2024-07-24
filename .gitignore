@@ -1,0 +1,38 @@
+ch03/diabetes.csv
+data/titanic/gender_submission.csv
+data/titanic/test.csv
+data/titanic/train.csv
+data/titanic.zip
+ch04/human_activity/.DS_Store
+ch04/human_activity/activity_labels.txt
+ch04/human_activity/features_info.txt
+ch04/human_activity/features.txt
+ch04/human_activity/README.txt
+ch04/human_activity/test/subject_test.txt
+ch04/human_activity/test/X_test.txt
+ch04/human_activity/test/y_test.txt
+ch04/human_activity/test/Inertial Signals/body_acc_x_test.txt
+ch04/human_activity/test/Inertial Signals/body_acc_y_test.txt
+ch04/human_activity/test/Inertial Signals/body_acc_z_test.txt
+ch04/human_activity/test/Inertial Signals/body_gyro_x_test.txt
+ch04/human_activity/test/Inertial Signals/body_gyro_y_test.txt
+ch04/human_activity/test/Inertial Signals/body_gyro_z_test.txt
+ch04/human_activity/test/Inertial Signals/total_acc_x_test.txt
+ch04/human_activity/test/Inertial Signals/total_acc_y_test.txt
+ch04/human_activity/test/Inertial Signals/total_acc_z_test.txt
+ch04/human_activity/train/subject_train.txt
+ch04/human_activity/train/X_train.txt
+ch04/human_activity/train/y_train.txt
+ch04/human_activity/train/Inertial Signals/body_acc_x_train.txt
+ch04/human_activity/train/Inertial Signals/body_acc_y_train.txt
+ch04/human_activity/train/Inertial Signals/body_acc_z_train.txt
+ch04/human_activity/train/Inertial Signals/body_gyro_x_train.txt
+ch04/human_activity/train/Inertial Signals/body_gyro_y_train.txt
+ch04/human_activity/train/Inertial Signals/body_gyro_z_train.txt
+ch04/human_activity/train/Inertial Signals/total_acc_x_train.txt
+ch04/human_activity/train/Inertial Signals/total_acc_y_train.txt
+ch04/human_activity/train/Inertial Signals/total_acc_z_train.txt
+ch04/santander-customer-satisfaction/sample_submission.csv
+ch04/santander-customer-satisfaction/test.csv
+ch04/santander-customer-satisfaction/train.csv
+ch04/creditcard.csv
