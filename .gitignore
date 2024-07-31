@@ -38,3 +38,6 @@ ch04/santander-customer-satisfaction/train.csv
 ch04/creditcard.csv
 ch05/boston_house_prices.csv
 ch05/p322_boston.tif
+ch05/bike-sharing-demand/sampleSubmission.csv
+ch05/bike-sharing-demand/test.csv
+ch05/bike-sharing-demand/train.csv
