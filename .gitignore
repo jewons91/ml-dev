@@ -43,3 +43,7 @@ ch05/bike-sharing-demand/test.csv
 ch05/bike-sharing-demand/train.csv
 ch05/bike_train.csv
 ch05/house_price.csv
+semi/creditcard.csv
+data/santander-customer-satisfaction/sample_submission.csv
+data/santander-customer-satisfaction/test.csv
+data/santander-customer-satisfaction/train.csv
