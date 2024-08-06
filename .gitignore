@@ -47,3 +47,10 @@ semi/creditcard.csv
 data/santander-customer-satisfaction/sample_submission.csv
 data/santander-customer-satisfaction/test.csv
 data/santander-customer-satisfaction/train.csv
+ch06/pca_credit_card.xls
+semi/creditcardFraud/creditcard.csv
+semi/titanic/check.csv
+semi/titanic/gender_submission.csv
+semi/titanic/result.csv
+semi/titanic/test.csv
+semi/titanic/train.csv
